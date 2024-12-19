@@ -1,4 +1,3 @@
-# Fernabot_src
 # FernaBot
 
 Welcome to the official repository for FernaBot's ongoing development. This repository contains the essential code and configurations for the FernaBot project, a Facebook Messenger bot designed to assist users with real-time information and interactions.
