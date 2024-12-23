@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acdcb189-08d6-4091-b9b9-538747beb282" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/fernabot_rulebased.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/nlu.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/db3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/domain.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/interface (1).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/nlpmodul.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old/training.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/senderActions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testingdns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,5 +98,16 @@
       <updated>1733516842582</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
