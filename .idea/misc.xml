@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="fernabot_rulebased_condavenv" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="fernabot_rulebased_condavenv" project-jdk-type="Python SDK" />
+</project>

@@ -1,0 +1,22 @@
+language: "ar"
+pipeline:
+- name: WhitespaceTokenizer
+- name: RegexFeaturizer
+- name: CountVectorsFeaturizer
+  OOV_token: "[OOV]"
+  use_shared_vocab: false
+- name: LanguageModelFeaturizer
+  model_name: "camembert"
+  model_weights: "xlm-roberta-base"
+- name: DIETClassifier
+  epochs: 50  # Increased the number of epochs
+  learning_rate: 0.0001  # Reduced learning rate to slow down learning
+  constrain_similarities: true
+  similarity_type: "auto"
+  dropout_rate: 0.3  # Increased dropout to help with regularization
+  number_of_transformer_layers: 1
+  hidden_layers_sizes:
+    text: [128]  # Further simplified the network
+  batch_strategy: "balanced"
+  batch_size: [16, 32]  # Smaller batch sizes for more updates
+assistant_id: 20241206-232432-flat-tower
